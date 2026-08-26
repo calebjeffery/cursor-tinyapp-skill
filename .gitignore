@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Build artifacts (if you add sample apps later)
+*.obj
+*.exe
+*.pdb
+*.ilk
